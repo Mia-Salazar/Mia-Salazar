@@ -12,10 +12,14 @@ You can follow the trajectory of my spaceship at:
 
 **My GitHub stats:**
 ###
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mia-Salazar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mia-Salazar&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+<a href="https://github.com/Mia-Salazar/Mia-Salazar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mia-Salazar&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/Mia-Salazar/Mia-Salazar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mia-Salazar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mia-Salazar's GitHub Stats" />
+</a>
+
+<p></p>
 
 **My Latest Articles:**
 - [Optimize your GitHub and CV to pass the technical review](https://dev.to/miasalazar/optimizar-tu-github-y-cv-para-pasar-la-revision-tecnica-35ok)
