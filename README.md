@@ -19,7 +19,20 @@ You can follow the trajectory of my spaceship at:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mia-Salazar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mia-Salazar's GitHub Stats" />
 </a>
 
-<p></p>
+**Technologies & tools:**
+###
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=plastic&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-E34F26?style=plastic&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)
+![Json](https://img.shields.io/badge/json-5E5C5C?style=plastic&logo=json&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white)
 
 **My Latest Articles:**
 - [Optimize your GitHub and CV to pass the technical review](https://dev.to/miasalazar/optimizar-tu-github-y-cv-para-pasar-la-revision-tecnica-35ok)
