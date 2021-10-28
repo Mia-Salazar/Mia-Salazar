@@ -46,7 +46,7 @@ You can follow the trajectory of my spaceship at:
 - 📝 Sometimes I write articles on [medium](https://marasalazar.medium.com/) and on [dev.to](https://dev.to/miasalazar)
 - 📫 How to reach me: maria.sgr@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I like cookies and factose-free pizza. I hate getting my socks wet.
+- ⚡ Fun fact: I like cookies and lactose-free pizza. I hate getting my socks wet.
 
 **My favourites:**
 - 🎮[Project Apax](https://store.steampowered.com/app/1776610/Project_Apax/)
