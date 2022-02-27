@@ -13,7 +13,7 @@ You can follow the trajectory of my spaceship at:
 **My best projectss:**
 ###
   
-| <a href="https://github.com/Mia-Salazar/portfolio-react" target="_blank">**My portfolio**</a> | <a href="https://github.com/Mia-Salazar/marvel-react" target="_blank">**Marvel comic's  collection**</a> | <a href="https://github.com/Mia-Salazar/shop-redux" target="_blank">**LOTR Shop**</a> | <a href="https://github.com/Mia-Salazar/xcjgames" target="_blank">**Artists searcher**</a> |
+| <a href="https://github.com/Mia-Salazar/portfolio-react" target="_blank">**My portfolio**</a> | <a href="https://github.com/Mia-Salazar/marvel-react" target="_blank">**Marvel comic's  collection**</a> | <a href="https://github.com/Mia-Salazar/shop-redux" target="_blank">**LOTR Shop**</a> | <a href="https://github.com/Mia-Salazar/xcjgames" target="_blank">**XCJ Games**</a> |
 | :---: | :---: | :---: | :---: |
 <img align='center' src='https://pbs.twimg.com/media/E9-ER5kXIAQUPZo?format=png&name=small' width="100px"  height='75px'> | <img align='center' width="100px" src='https://miasalazar.netlify.app/static/media/comic.404c9788.PNG' height='75px'>  | <img align='center' src='https://miasalazar.netlify.app/static/media/lotr.9db4d0e6.jpg' width="100px" height='75px'> | <img align='center' src='https://miasalazar.netlify.app/static/media/xcjgames.1b9c86f8.PNG' width="100px" height='75px'> |
 | <span>React, Jest, SASS, CSS3, HTML5 </span> | <span>React, SASS, CSS3, HTML5, Semantic UI</span> | <span>Angular, Redux, Tailwind, CSS3, HTML5</span> | <span>React, Jest, Testing library, SASS, CSS3, HTML5</span> |
