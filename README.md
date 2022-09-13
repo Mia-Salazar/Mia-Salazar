@@ -44,6 +44,7 @@ You can follow the trajectory of my spaceship at:
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white)
 
 **My Latest Articles:**
+- [The importance of color in accessibility](https://dev.to/miasalazar/la-importancia-del-color-en-la-accesibilidad-1o9o)
 - [Optimize your GitHub and CV to pass the technical review](https://dev.to/miasalazar/optimizar-tu-github-y-cv-para-pasar-la-revision-tecnica-35ok)
 - [A Developer’s Nightmare: Web Accessibility](https://marasalazar.medium.com/developers-nightmare-web-accessibility-52b9a6890403)
 - [How to Structure CSS in Vue Like a Pro](https://marasalazar.medium.com/how-to-structure-css-in-vue-like-a-pro-5475749cf5ea)
