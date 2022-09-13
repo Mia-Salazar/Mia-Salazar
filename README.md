@@ -49,7 +49,7 @@ You can follow the trajectory of my spaceship at:
 - [How to Structure CSS in Vue Like a Pro](https://marasalazar.medium.com/how-to-structure-css-in-vue-like-a-pro-5475749cf5ea)
 
 **Personal Stuff:**
-- 👨🏻‍💻 I’m currently working on [Enthec Solutions](https://enthec.com/)
+- 👨🏻‍💻 I’m currently a Front-end developer
 - 👯 I’m a mentor on [Adalab](https://adalab.es/)
 - 🚀 I’m currently learning Testing, Redux and Micro front-ends
 - 📝 Sometimes I write articles on [medium](https://marasalazar.medium.com/) and on [dev.to](https://dev.to/miasalazar)
