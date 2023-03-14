@@ -8,6 +8,7 @@ You can follow the trajectory of my spaceship at:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miasalazar/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://miasalazar.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/chochomona)
+[![Dev.to Badge](https://img.shields.io/badge/devto-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://dev.to/miasalazar)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://marasalazar.medium.com/)
 
 **My best projectss:**
@@ -47,22 +48,25 @@ You can follow the trajectory of my spaceship at:
 - [The importance of color in accessibility](https://dev.to/miasalazar/la-importancia-del-color-en-la-accesibilidad-1o9o)
 - [Optimize your GitHub and CV to pass the technical review](https://dev.to/miasalazar/optimizar-tu-github-y-cv-para-pasar-la-revision-tecnica-35ok)
 - [A Developer’s Nightmare: Web Accessibility](https://marasalazar.medium.com/developers-nightmare-web-accessibility-52b9a6890403)
-- [How to Structure CSS in Vue Like a Pro](https://marasalazar.medium.com/how-to-structure-css-in-vue-like-a-pro-5475749cf5ea)
+- [Web accessibility: Keyboard navigation](https://dev.to/miasalazar/accesibilidad-web-navegacion-por-teclado-42gh)
 
 **Personal Stuff:**
 - 👨🏻‍💻 I’m currently a Front-end developer
-- 👯 I’m a mentor on [Adalab](https://adalab.es/)
-- 🚀 I’m currently learning Testing, Redux and Micro front-ends
+- 👯 Former mentor on [Adalab](https://adalab.es/) and a current freelance mentor
+- 🚀 I’m currently learning Testing, accesibility and performance
 - 📝 Sometimes I write articles on [medium](https://marasalazar.medium.com/) and on [dev.to](https://dev.to/miasalazar)
 - 📫 How to reach me: maria.sgr@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like cookies and lactose-free pizza. I hate getting my socks wet.
+- 🤓 Fan: I'm a huge Star Wars fan. I'm Ravenclaw, I prefer DC to Marvel although I like both and 🖖🏻
 
 **My favourites:**
-- 🎮[Project Apax](https://store.steampowered.com/app/1776610/Project_Apax/)
 - 🎮[Final Fantasy VII](https://store.steampowered.com/app/39140/FINAL_FANTASY_VII/)
 - 🎮[Mass Effect](https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/)
+- 🎮[Fallout 4](https://store.steampowered.com/agecheck/app/377160/?l=spanish)
+- 🎥[Everything Everywhere All at Once](https://www.imdb.com/title/tt6710474)
 - 📺[The Good Place](https://www.imdb.com/title/tt4955642/)
+- 📺[Our flag means death](https://www.imdb.com/title/tt11000902/)
 - 📺[Buffy The Vampire Slayer](https://www.imdb.com/title/tt0118276/)
 - 📚[1984](https://www.goodreads.com/book/show/40961427-1984)
 - 📚[Pride and perjudice](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice)
