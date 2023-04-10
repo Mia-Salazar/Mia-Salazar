@@ -55,7 +55,7 @@ You can follow the trajectory of my spaceship at:
 - 👯 Former mentor on [Adalab](https://adalab.es/) and a current freelance mentor
 - 🚀 I’m currently learning Testing, accesibility and performance
 - 📝 Sometimes I write articles on [medium](https://marasalazar.medium.com/) and on [dev.to](https://dev.to/miasalazar)
-- 📫 How to reach me: maria.sgr@gmail.com
+- 📫 How to reach me: hello@miasalazar.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like cookies and lactose-free pizza. I hate getting my socks wet.
 - 🤓 Fan: I'm a huge Star Wars fan. I'm Ravenclaw, I prefer DC to Marvel although I like both and 🖖🏻
