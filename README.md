@@ -45,13 +45,15 @@ You can follow the trajectory of my spaceship at:
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white)
 
 **My Latest Articles:**
-- [The importance of color in accessibility](https://dev.to/miasalazar/la-importancia-del-color-en-la-accesibilidad-1o9o)
-- [Optimize your GitHub and CV to pass the technical review](https://dev.to/miasalazar/optimizar-tu-github-y-cv-para-pasar-la-revision-tecnica-35ok)
-- [A Developer’s Nightmare: Web Accessibility](https://marasalazar.medium.com/developers-nightmare-web-accessibility-52b9a6890403)
-- [Web accessibility: Keyboard navigation](https://dev.to/miasalazar/accesibilidad-web-navegacion-por-teclado-42gh)
+- [ES][Core Web Vitals, ¿qué son y cómo mejorar tu web?](https://dev.to/miasalazar/core-web-vitals-que-son-y-como-mejorar-tu-web-2i5i)
+- [ES][Accesibilidad web: Navegación por teclado](https://dev.to/miasalazar/accesibilidad-web-navegacion-por-teclado-42gh)
+- [ES][Proyectos adaptados a personas con discapacidad visual](https://dev.to/miasalazar/proyectos-adaptados-a-personas-con-discapacidad-visual-50f7)
+- [ES][Typescript para desarrolladores de Angular](https://dev.to/miasalazar/typescript-para-desarrolladores-de-angular-111o)
+- [ES][Optimizar tu GitHub y CV para pasar la revisión técnica](https://dev.to/miasalazar/optimizar-tu-github-y-cv-para-pasar-la-revision-tecnica-35ok)
+- [EN][A Developer’s Nightmare: Web Accessibility](https://marasalazar.medium.com/developers-nightmare-web-accessibility-52b9a6890403)
 
 **Personal Stuff:**
-- 👨🏻‍💻 I’m currently a Front-end developer
+- 👨🏻‍💻 I’m currently a Front-end developer on [zityhub](https://zityhub.com/)
 - 👯 Former mentor on [Adalab](https://adalab.es/) and a current freelance mentor
 - 🚀 I’m currently learning Testing, accesibility and performance
 - 📝 Sometimes I write articles on [medium](https://marasalazar.medium.com/) and on [dev.to](https://dev.to/miasalazar)
@@ -64,6 +66,7 @@ You can follow the trajectory of my spaceship at:
 - 🎮[Final Fantasy VII](https://store.steampowered.com/app/39140/FINAL_FANTASY_VII/)
 - 🎮[Mass Effect](https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/)
 - 🎮[Fallout 4](https://store.steampowered.com/agecheck/app/377160/?l=spanish)
+- 🎮[Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/)
 - 🎥[Everything Everywhere All at Once](https://www.imdb.com/title/tt6710474)
 - 📺[The Good Place](https://www.imdb.com/title/tt4955642/)
 - 📺[Our flag means death](https://www.imdb.com/title/tt11000902/)
