@@ -45,12 +45,12 @@ You can follow the trajectory of my spaceship at:
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white)
 
 **My Latest Articles:**
-- [ES][Core Web Vitals, ¿qué son y cómo mejorar tu web?](https://dev.to/miasalazar/core-web-vitals-que-son-y-como-mejorar-tu-web-2i5i)
-- [ES][Accesibilidad web: Navegación por teclado](https://dev.to/miasalazar/accesibilidad-web-navegacion-por-teclado-42gh)
-- [ES][Proyectos adaptados a personas con discapacidad visual](https://dev.to/miasalazar/proyectos-adaptados-a-personas-con-discapacidad-visual-50f7)
-- [ES][Typescript para desarrolladores de Angular](https://dev.to/miasalazar/typescript-para-desarrolladores-de-angular-111o)
-- [ES][Optimizar tu GitHub y CV para pasar la revisión técnica](https://dev.to/miasalazar/optimizar-tu-github-y-cv-para-pasar-la-revision-tecnica-35ok)
-- [EN][A Developer’s Nightmare: Web Accessibility](https://marasalazar.medium.com/developers-nightmare-web-accessibility-52b9a6890403)
+- [ES][ Core Web Vitals, ¿qué son y cómo mejorar tu web?](https://dev.to/miasalazar/core-web-vitals-que-son-y-como-mejorar-tu-web-2i5i)
+- [ES][ Accesibilidad web: Navegación por teclado](https://dev.to/miasalazar/accesibilidad-web-navegacion-por-teclado-42gh)
+- [ES][ Proyectos adaptados a personas con discapacidad visual](https://dev.to/miasalazar/proyectos-adaptados-a-personas-con-discapacidad-visual-50f7)
+- [ES][ Typescript para desarrolladores de Angular](https://dev.to/miasalazar/typescript-para-desarrolladores-de-angular-111o)
+- [ES][ Optimizar tu GitHub y CV para pasar la revisión técnica](https://dev.to/miasalazar/optimizar-tu-github-y-cv-para-pasar-la-revision-tecnica-35ok)
+- [EN][ A Developer’s Nightmare: Web Accessibility](https://marasalazar.medium.com/developers-nightmare-web-accessibility-52b9a6890403)
 
 **Personal Stuff:**
 - 👨🏻‍💻 I’m currently a Front-end developer on [zityhub](https://zityhub.com/)
