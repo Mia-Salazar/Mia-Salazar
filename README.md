@@ -14,10 +14,10 @@ You can follow the trajectory of my spaceship at:
 **My best projectss:**
 ###
   
-| <a href="https://github.com/Mia-Salazar/portfolio-react" target="_blank">**My portfolio**</a> | <a href="https://mia-salazar.github.io/quiz" target="_blank">**Mass Effect Quiz**</a> | <a href="https://github.com/Mia-Salazar/shop-redux" target="_blank">**LOTR Shop**</a> | <a href="https://github.com/Mia-Salazar/xcjgames" target="_blank">**XCJ Games**</a> |
+| <a href="https://foodiesaaurus.com" target="_blank">**My portfolio**</a>| <a href="https://github.com/Mia-Salazar/portfolio-react" target="_blank">**My portfolio**</a> | <a href="https://mia-salazar.github.io/quiz" target="_blank">**Mass Effect Quiz**</a> | <a href="https://github.com/Mia-Salazar/shop-redux" target="_blank">**LOTR Shop**</a> |
 | :---: | :---: | :---: | :---: |
-<img align='center' src='https://pbs.twimg.com/media/E9-ER5kXIAQUPZo?format=png&name=small' width="100px"  height='75px'> | <img align='center' width="100px" src='https://miasalazar.netlify.app/static/media/me.8c0254de.png' height='75px'>  | <img align='center' src='https://miasalazar.netlify.app/static/media/lotr.9db4d0e6.jpg' width="100px" height='75px'> | <img align='center' src='https://miasalazar.netlify.app/static/media/xcjgames.1b9c86f8.PNG' width="100px" height='75px'> |
-| <span>React, Jest, SASS, CSS3, HTML5 </span> | <span>React, SASS, CSS3, HTML5</span> | <span>Angular, Redux, Tailwind, CSS3, HTML5</span> | <span>React, Jest, Testing library, SASS, CSS3, HTML5</span> |
+<img align='center' src="https://thumbs2.imgbox.com/55/77/mnME2TZk_t.png" width="100px"  height='75px'/> | <img align='center' src='https://pbs.twimg.com/media/E9-ER5kXIAQUPZo?format=png&name=small' width="100px"  height='75px'> | <img align='center' width="100px" src='https://miasalazar.netlify.app/static/media/me.8c0254de.png' height='75px'>  | <img align='center' src='https://miasalazar.netlify.app/static/media/lotr.9db4d0e6.jpg' width="100px" height='75px'>
+| <span>CSS3, HTML5, Javascript, MySQL, PHP, SQL </span> | <span>React, Jest, SASS, CSS3, HTML5 </span> | <span>React, SASS, CSS3, HTML5</span> | <span>Angular, Redux, Tailwind, CSS3, HTML5</span> 
 
 
 **My GitHub stats:**
@@ -54,7 +54,7 @@ You can follow the trajectory of my spaceship at:
 
 **Personal Stuff:**
 - 👨🏻‍💻 I’m currently a Front-end developer on [zityhub](https://zityhub.com/)
-- 👯 Former mentor on [Adalab](https://adalab.es/) and a current freelance mentor
+- 👯 Former mentor at [Adalab](https://adalab.es/) and a current mentor at [Step4Ward](https://step4ward.notion.site/)
 - 🚀 I’m currently learning Testing, accesibility and performance
 - 📝 Sometimes I write articles on [medium](https://marasalazar.medium.com/) and on [dev.to](https://dev.to/miasalazar)
 - 📫 How to reach me: hello@miasalazar.com
