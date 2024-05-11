@@ -45,17 +45,16 @@ You can follow the trajectory of my spaceship at:
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white)
 
 **My Latest Articles:**
-- [ES][ Core Web Vitals, ¿qué son y cómo mejorar tu web?](https://dev.to/miasalazar/core-web-vitals-que-son-y-como-mejorar-tu-web-2i5i)
-- [ES][ Accesibilidad web: Navegación por teclado](https://dev.to/miasalazar/accesibilidad-web-navegacion-por-teclado-42gh)
-- [ES][ Proyectos adaptados a personas con discapacidad visual](https://dev.to/miasalazar/proyectos-adaptados-a-personas-con-discapacidad-visual-50f7)
-- [ES][ Typescript para desarrolladores de Angular](https://dev.to/miasalazar/typescript-para-desarrolladores-de-angular-111o)
-- [ES][ Optimizar tu GitHub y CV para pasar la revisión técnica](https://dev.to/miasalazar/optimizar-tu-github-y-cv-para-pasar-la-revision-tecnica-35ok)
-- [EN][ A Developer’s Nightmare: Web Accessibility](https://marasalazar.medium.com/developers-nightmare-web-accessibility-52b9a6890403)
+- [EN][ Semantic HTML: Survival Guide](https://dev.to/miasalazar/semantic-html-survival-guide-6ca)
+- [EN][ How to do a GOOD technical onboarding](https://dev.to/miasalazar/how-to-do-a-good-technical-onboarding-5dm3)
+- [EN][ The digital gap: Accessibility and the elderly](https://dev.to/miasalazar/the-digital-gap-accessibility-and-the-elderly-59lc)
+- [EN][ Accessibility and allowing zoom in your projects](https://dev.to/miasalazar/accessibility-and-allowing-zoom-in-your-projects-2gfi)
+- [EN][ Hide and show elements from screen readers](https://dev.to/miasalazar/hide-and-show-elements-from-screen-readers-15md)
 
 **Personal Stuff:**
 - 👨🏻‍💻 I’m currently a Front-end developer on [zityhub](https://zityhub.com/)
 - 👯 Former mentor at [Adalab](https://adalab.es/) and a current mentor at [Step4Ward](https://step4ward.notion.site/)
-- 🚀 I’m currently learning Testing, accesibility and performance
+- 🚀 I’m currently specializing in accessibility
 - 📝 Sometimes I write articles on [medium](https://marasalazar.medium.com/) and on [dev.to](https://dev.to/miasalazar)
 - 📫 How to reach me: hello@miasalazar.com
 - 😄 Pronouns: She/Her
