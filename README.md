@@ -1,9 +1,9 @@
-### I'm Mia Salazar
-I'm a galactic Front-End developer who has been navigating the galaxy doing good code since 2018, terrestrial calendar.
+### Hello!
+I'm Mia Salazar and I'm a Front-End developer that is specializing in accessibility.
 
-As a spacecraft pilot for the Galatic Programmers Alliance, I enjoy learning about the languages ​​that exist in the universe, discovering better ways to solve problems, working as a team with the other crew members of the spacecraft, and being in constant learning.
+I enjoy learning, discovering better ways to solve problems, working as a team with the other colleagues, and being in constant learning.
 
-You can follow the trajectory of my spaceship at:
+You can follow me at:
 ###
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miasalazar/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://miasalazar.com)
