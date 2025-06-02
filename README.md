@@ -7,7 +7,7 @@ You can follow me at:
 ###
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miasalazar/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://miasalazar.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/chochomona)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/miadeveloper)
 [![Dev.to Badge](https://img.shields.io/badge/devto-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://dev.to/miasalazar)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://marasalazar.medium.com/)
 
@@ -50,7 +50,7 @@ You can follow me at:
 - [ES][ t3chFest: Soft Skills. How playing Dungeons and dragons made me a better developer](https://www.youtube.com/watch?v=dIahxoZCmOw)
 
 **My Latest Articles:**
-- [EN][ Clean Architecture in Front-End Development(https://dev.to/miasalazar/clean-architecture-in-front-end-development-523n)
+- [EN][ Clean Architecture in Front-End Development](https://dev.to/miasalazar/clean-architecture-in-front-end-development-523n)
 - [EN][ Design Patterns in Front-end: Building Smarter, Scalable Interfaces](https://dev.to/miasalazar/design-patterns-in-front-end-building-smarter-scalable-interfaces-2hne)
 - [EN][ Writing Clean Code in Front-end: KISS, DRY, YAGNI, and Beyond](https://dev.to/miasalazar/writing-clean-code-in-front-end-kiss-dry-yaign-and-beyond-54ok)
 
