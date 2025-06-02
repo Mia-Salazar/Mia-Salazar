@@ -1,7 +1,7 @@
 ### Hello!
-I'm Mia Salazar and I'm a Front-End developer that is specializing in accessibility.
+I'm Mia Salazar, I have been a Front-end developer for 7 years now and I'm specializing in accessibility.
 
-I enjoy learning, discovering better ways to solve problems, working as a team with the other colleagues, and being in constant learning.
+I have worked with React, Angular and Vue. I'm a versatile person that enjoys learning, discovering better ways to solve problems, working as a team with the other colleagues, and being in constant learning.
 
 You can follow me at:
 ###
@@ -44,15 +44,19 @@ You can follow me at:
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white)
 
+**My Latest Talks:**
+- [EN][ MadVue: Web accessibility: Guide for beginners](https://madvue.es/agenda)
+- [ES][ CommitConf: Sometimes I see ARIA attributes](https://www.youtube.com/watch?v=QzjWU4c9KIwC)
+- [ES][ t3chFest: Soft Skills. How playing Dungeons and dragons made me a better developer](https://www.youtube.com/watch?v=dIahxoZCmOw)
+
 **My Latest Articles:**
-- [EN][ Semantic HTML: Survival Guide](https://dev.to/miasalazar/semantic-html-survival-guide-6ca)
-- [EN][ How to do a GOOD technical onboarding](https://dev.to/miasalazar/how-to-do-a-good-technical-onboarding-5dm3)
-- [EN][ The digital gap: Accessibility and the elderly](https://dev.to/miasalazar/the-digital-gap-accessibility-and-the-elderly-59lc)
-- [EN][ Accessibility and allowing zoom in your projects](https://dev.to/miasalazar/accessibility-and-allowing-zoom-in-your-projects-2gfi)
-- [EN][ Hide and show elements from screen readers](https://dev.to/miasalazar/hide-and-show-elements-from-screen-readers-15md)
+- [EN][ Clean Architecture in Front-End Development(https://dev.to/miasalazar/clean-architecture-in-front-end-development-523n)
+- [EN][ Design Patterns in Front-end: Building Smarter, Scalable Interfaces](https://dev.to/miasalazar/design-patterns-in-front-end-building-smarter-scalable-interfaces-2hne)
+- [EN][ Writing Clean Code in Front-end: KISS, DRY, YAGNI, and Beyond](https://dev.to/miasalazar/writing-clean-code-in-front-end-kiss-dry-yaign-and-beyond-54ok)
 
 **Personal Stuff:**
 - 👨🏻‍💻 I’m currently a Front-end developer on [zityhub](https://zityhub.com/)
+- 🎤 I'm a public speaker, I have given talks both in English and Spanish
 - 👯 Former mentor at [Adalab](https://adalab.es/) and a current mentor at [Step4Ward](https://step4ward.notion.site/)
 - 🚀 I’m currently specializing in accessibility
 - 📝 Sometimes I write articles on [medium](https://marasalazar.medium.com/) and on [dev.to](https://dev.to/miasalazar)
