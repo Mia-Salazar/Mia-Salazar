@@ -16,7 +16,7 @@ You can follow me at:
   
 | <a href="https://youtu.be/6OjCFya3QRg" target="_blank">**Foodiesaurus**</a>| <a href="https://github.com/Mia-Salazar/cookies" target="_blank">**My portfolio**</a> | <a href="https://github.com/Mia-Salazar/dragon-ball-characters" target="_blank">**Dragon Ball characters**</a> | <a href="https://github.com/Mia-Salazar/rickandmorty">**Rick & Morty**</a> |
 | :---: | :---: | :---: | :---: |
-<img align='center' src="https://thumbs2.imgbox.com/55/77/mnME2TZk_t.png" width="100px"  height='75px'/> |<img align='center' src="https://thumbs2.imgbox.com/af/b1/EUpFHEQC_t.jpg" width="100px"  height='75px'/>  | <img align='center' width="100px" src='https://thumbs2.imgbox.com/b0/d7/1a69Tb92_t.jpg' height='75px'>  | <img align='center' src='[https://miasalazar.netlify.app/static/media/lotr.9db4d0e6.jpg](https://thumbs2.imgbox.com/c7/ab/TadAsda3_t.jpg)' width="100px" height='75px'>
+<img align='center' src="https://thumbs2.imgbox.com/55/77/mnME2TZk_t.png" width="100px"  height='75px'/> |<img align='center' src="https://thumbs2.imgbox.com/af/b1/EUpFHEQC_t.jpg" width="100px"  height='75px'/>  | <img align='center' width="100px" src='https://thumbs2.imgbox.com/b0/d7/1a69Tb92_t.jpg' height='75px'>  | <img align='center' src='https://thumbs2.imgbox.com/c7/ab/TadAsda3_t.jpg' width="100px" height='75px'>
 | <span>CSS3, HTML5, Javascript, MySQL, PHP, SQL </span> | <span>React, SASS, BEM,  CSS3, HTML5, Atomic Design, Proptypes, Javascript </span> | <span>React, Typescript, Vitest, Testing-library, CSS3, HTML 5, React Query</span> | <span>React, Javascript, Styled Components, Jest, Testing-library, React Query, CSS3, HTML5</span> 
 
 
