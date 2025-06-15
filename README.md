@@ -14,9 +14,9 @@ You can follow me at:
 **My best projects:**
 ###
   
-| <a href="https://youtu.be/6OjCFya3QRg" target="_blank">**Foodiesaurus**</a>| <a href="https://github.com/Mia-Salazar/portfolio-react" target="_blank">**My portfolio**</a> | <a href="https://mia-salazar.github.io/quiz" target="_blank">**Mass Effect Quiz**</a> | <a href="https://github.com/Mia-Salazar/shop-redux" target="_blank">**LOTR Shop**</a> |
+| <a href="https://youtu.be/6OjCFya3QRg" target="_blank">**Foodiesaurus**</a>| <a href="https://github.com/Mia-Salazar/cookies" target="_blank">**My portfolio**</a> | <a href="https://github.com/Mia-Salazar/dragon-ball-characters" target="_blank">**Dragon Ball characters**</a> | <a href="[https://github.com/Mia-Salazar/shop-redux" target="_blank](https://github.com/Mia-Salazar/rickandmorty)">**Rick & Morty**</a> |
 | :---: | :---: | :---: | :---: |
-<img align='center' src="https://thumbs2.imgbox.com/55/77/mnME2TZk_t.png" width="100px"  height='75px'/> | <img align='center' src='https://pbs.twimg.com/media/E9-ER5kXIAQUPZo?format=png&name=small' width="100px"  height='75px'> | <img align='center' width="100px" src='https://miasalazar.netlify.app/static/media/me.8c0254de.png' height='75px'>  | <img align='center' src='https://miasalazar.netlify.app/static/media/lotr.9db4d0e6.jpg' width="100px" height='75px'>
+<img align='center' src="https://thumbs2.imgbox.com/55/77/mnME2TZk_t.png" width="100px"  height='75px'/> | <img align='center' src='<a href="https://imgbox.com/EUpFHEQC" target="_blank"><img src="https://thumbs2.imgbox.com/af/b1/EUpFHEQC_t.jpg" alt="image host"/></a>' width="100px"  height='75px'> | <img align='center' width="100px" src='https://miasalazar.netlify.app/static/media/me.8c0254de.png' height='75px'>  | <img align='center' src='https://miasalazar.netlify.app/static/media/lotr.9db4d0e6.jpg' width="100px" height='75px'>
 | <span>CSS3, HTML5, Javascript, MySQL, PHP, SQL </span> | <span>React, Jest, SASS, CSS3, HTML5 </span> | <span>React, SASS, CSS3, HTML5</span> | <span>Angular, Redux, Tailwind, CSS3, HTML5</span> 
 
 
