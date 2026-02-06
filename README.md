@@ -1,5 +1,5 @@
 ### Hello!
-I'm Mia Salazar, I have been a Front-end developer for 7 years now and I'm specializing in accessibility.
+I'm Mia Salazar, I have been a Front-end developer for 8 years now and I'm specializing in accessibility.
 
 I have worked with React, Angular and Vue. I'm a versatile person that enjoys learning, discovering better ways to solve problems, working as a team with the other colleagues, and being in constant learning.
 
